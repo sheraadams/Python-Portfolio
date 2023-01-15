@@ -1,9 +1,5 @@
 ## Documentation
 
-Gallery-style slideshow GUI application in written in python using tkinter, future, and pillow libraries. 
+Slide show style portfolio is created in python using tkinter, pillow, and future libraries. 
 
-![Screenshot 2022-11-14 163221](https://user-images.githubusercontent.com/110789514/209884429-29e17f58-031c-4cd7-8847-4e81e67c51d7.png)
-
-## Image Credits
-
-Images by foldyart1980 via Adobe Stock.
+![Screenshot 2023-01-15 132347](https://user-images.githubusercontent.com/110789514/212559932-0ac12d9c-7299-4753-b724-7179b75815bc.png)
